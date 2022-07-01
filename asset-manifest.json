@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.f0d685eb.css",
-    "main.js": "/static/js/main.92653adf.js",
-    "index.html": "/index.html",
-    "main.f0d685eb.css.map": "/static/css/main.f0d685eb.css.map",
-    "main.92653adf.js.map": "/static/js/main.92653adf.js.map"
+    "main.css": "/gold-calculator/static/css/main.f0d685eb.css",
+    "main.js": "/gold-calculator/static/js/main.92653adf.js",
+    "index.html": "/gold-calculator/index.html",
+    "main.f0d685eb.css.map": "/gold-calculator/static/css/main.f0d685eb.css.map",
+    "main.92653adf.js.map": "/gold-calculator/static/js/main.92653adf.js.map"
   },
   "entrypoints": [
     "static/css/main.f0d685eb.css",
